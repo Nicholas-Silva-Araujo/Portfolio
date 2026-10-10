@@ -73,6 +73,7 @@ Udemy | 2025
 - **WhatsApp:** [Entrar em contato](https://wa.me/5511943436353)
 - **LinkedIn:** [Nicholas Silva Araújo](https://www.linkedin.com/in/nicholas-silva-araujo)
 - **GitHub:** [Nicholas-Silva-Araujo](https://github.com/Nicholas-Silva-Araujo)
+- **Portfolio:** (https://nicholas-silva-araujo.github.io/-Portfolio/)
 
 ---
 
