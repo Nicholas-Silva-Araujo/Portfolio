@@ -2,7 +2,7 @@
 
 Portfólio pessoal desenvolvido com HTML, CSS e JavaScript — sem frameworks, sem bundler.
 
-Hospedado via GitHub Pages: 
+Hospedado via GitHub Pages: https://nicholas-silva-araujo.github.io/-Portfolio/
 
 # Sobre
 
