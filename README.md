@@ -1,6 +1,7 @@
 #   Portfólio — Nicholas Araújo   
 
 Portfólio pessoal desenvolvido com HTML, CSS e JavaScript — sem frameworks, sem bundler.
+
 Hospedado via GitHub Pages: 
 
 # Sobre
