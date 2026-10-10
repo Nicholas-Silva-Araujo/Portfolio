@@ -70,9 +70,9 @@ Udemy | 2025
 ## Contato
 
 - **E-mail:** [nicholassilvaaraujoo@gmail.com](mailto:nicholassilvaaraujoo@gmail.com)
-- **WhatsApp:** +55 11 94343-6353 [Entrar em contato](https://wa.me/5511943436353)
-- **LinkedIn:** [Nicholas Silva Araújo](https://www.linkedin.com/in/nicholas-silva-araujo)
-- **GitHub:** [Nicholas-Silva-Araujo](https://github.com/Nicholas-Silva-Araujo)
+- **WhatsApp:** +(https://wa.me/5511943436353)
+- **LinkedIn:** (https://www.linkedin.com/in/nicholas-silva-araujo)
+- **GitHub:** (https://github.com/Nicholas-Silva-Araujo)
 - **Portfolio:** https://nicholas-silva-araujo.github.io/-Portfolio/
 
 ---
