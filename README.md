@@ -71,9 +71,9 @@ Udemy | 2025
 
 - **E-mail:** [nicholassilvaaraujoo@gmail.com](mailto:nicholassilvaaraujoo@gmail.com)
 - **WhatsApp:** +(https://wa.me/5511943436353)
-- **LinkedIn:** (https://www.linkedin.com/in/nicholas-silva-araujo)
-- **GitHub:** (https://github.com/Nicholas-Silva-Araujo)
-- **Portfolio:** https://nicholas-silva-araujo.github.io/-Portfolio/
+- **LinkedIn:** (linkedin.com/in/nicholas-silva-araujo)
+- **GitHub:** (github.com/Nicholas-Silva-Araujo)
+- **Portfolio:** (nicholas-silva-araujo.github.io/-Portfolio/)
 
 ---
 
