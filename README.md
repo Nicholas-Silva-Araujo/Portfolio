@@ -71,7 +71,7 @@ Udemy | 2025
 
 | **Canal** | **Link** |
 |---|---|
-| E-mail | [nicholassilvaaraujoo@gmail.com](mailto:nicholassilvaaraujoo@gmail.com) |
+| E-mail | [nicholassilvaaraujoo@gmail.com](nicholassilvaaraujoo@gmail.com) |
 | LinkedIn | [linkedin.com/in/nicholas-silva-araujo](https://www.linkedin.com/in/nicholas-silva-araujo/) |
 | GitHub | [github.com/Nicholas-Silva-Araujo](https://github.com/Nicholas-Silva-Araujo) |
 | WhatsApp | [+55 (11) 94343-6353](https://wa.me/5511943436353) |
