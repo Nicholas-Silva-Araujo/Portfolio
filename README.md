@@ -1,14 +1,13 @@
-#   Portfólio —————— Nicholas Araújo   
+#   Portfólio —— Nicholas Araújo   
 
 Portfólio pessoal desenvolvido com HTML, CSS e JavaScript — sem frameworks, sem bundler.
 Hospedado via GitHub Pages: 
 
 # Sobre
 
-Sou Nicholas Araújo, estudante de Bacharelado em Sistemas de Informação e estou em busca de oportunidades profissionais na área de Tecnologia da Informação.
-Tenho interesse em suporte técnico, infraestrutura, redes de computadores e análise de dados. Busco aplicar meus conhecimentos, desenvolver novas habilidades e adquirir experiência prática, contribuindo para a resolução de problemas e para o funcionamento eficiente dos ambientes de TI.
+Bacharel em andamento em Sistemas de Informação (UniDrummond, 6º semestre) e estou em busca de oportunidades profissionais na área de Tecnologia da Informação. Este portfólio reúne projetos acadêmicos, habilidades técnicas, formação e certificado.
 
-## Objetivo profissional
+Aberto a oportunidades em: ## Análise de Dados · Infraestrutura de TI · Redes de Computadores · Desenvolvimento Web
 
 Estou em busca de oportunidades nas seguintes áreas:
 
@@ -30,9 +29,6 @@ Estou em busca de oportunidades nas seguintes áreas:
 | Ferramentas | Git, GitHub e Microsoft Office |
 | Produtividade | Excel, macros e VBA |
 
-## Sobre o portfólio
-
-Este projeto foi desenvolvido para apresentar meu perfil profissional, minhas habilidades, minha formação acadêmica e minhas informações de contato.
 
 O site possui interface com tema escuro, destaques em roxo e azul, navegação interativa e layout adaptável a diferentes tamanhos de tela.
 
@@ -81,4 +77,4 @@ Udemy | 2025
 
 Obrigado por visitar meu perfil! Estou aberto a oportunidades profissionais e conexões na área de Tecnologia da Informação.
 
-**Aprendendo, evoluindo e construindo.**
+**Aprendendo, evoluindo e construindo!!**
