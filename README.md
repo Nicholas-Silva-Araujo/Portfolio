@@ -69,13 +69,13 @@ Udemy | 2025
 
 ## Contato
 
-| Canal     | Link                                                                                                       |
-| --------- | ---------------------------------------------------------------------------------------------------------- |
-| E-mail    | [nicholassilvaaraujoo@gmail.com](https://mail.google.com/mail/?view=cm\&to=nicholassilvaaraujoo@gmail.com) |
-| LinkedIn  | [linkedin.com/in/nicholas-silva-araujo](https://www.linkedin.com/in/nicholas-silva-araujo/)                |
-| GitHub    | [github.com/Nicholas-Silva-Araujo](https://github.com/Nicholas-Silva-Araujo)                               |
-| WhatsApp  | [+55 (11) 94343-6353](https://wa.me/5511943436353)                                                         |
-| Portfólio | [nicholas-silva-araujo.github.io/-Portfolio](https://nicholas-silva-araujo.github.io/-Portfolio/)          |
+| **Canal** | **Link** |
+|---|---|
+| E-mail | [nicholassilvaaraujoo@gmail.com](mailto:nicholassilvaaraujoo@gmail.com) |
+| LinkedIn | [linkedin.com/in/nicholas-silva-araujo](https://www.linkedin.com/in/nicholas-silva-araujo/) |
+| GitHub | [github.com/Nicholas-Silva-Araujo](https://github.com/Nicholas-Silva-Araujo) |
+| WhatsApp | [+55 (11) 94343-6353](https://wa.me/5511943436353) |
+| Portfólio | [nicholas-silva-araujo.github.io/-Portfolio](https://nicholas-silva-araujo.github.io/-Portfolio/) |
 
 ---
 
